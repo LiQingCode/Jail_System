@@ -1,0 +1,18 @@
+.ant-typography {
+    margin: 5px;
+}
+
+:where(.css-dev-only-do-not-override-1m62vyb).ant-divider-horizontal.ant-divider-with-text {
+    margin: 5px;
+}
+
+.ant-layout-header {
+    background-color: #fff;
+    margin-bottom: 2px;
+}
+
+.layout-space{
+}
+
+.layout-a{
+}
